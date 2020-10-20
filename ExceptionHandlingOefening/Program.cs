@@ -66,7 +66,7 @@ namespace ExceptionHandlingOefening
             ///cats.Add(new Cat(0));
             ///
             ///Deze lijn voegt een cat toe met leeftijd -1
-            cats.Add(new Cat(-1));
+            ///cats.Add(new Cat(-1));
             
             try
             {
